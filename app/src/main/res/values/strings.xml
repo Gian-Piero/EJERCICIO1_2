@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Ejercicio2.2</string>
+    <string name="textTitulo1">Introduce el PRIMER valor</string>
+    <string name="textTitulo2">Introduce el SEGUNDO valor</string>
+    <string name="valor1"></string>
+    <string name="valor2"></string>
+    <string name="btnSumar">+</string>
+    <string name="btnRestar">-</string>
+    <string name="btnMultiplicar">*</string>
+    <string name="btnDividir">/</string>
+    <string name="txtResultado">Resultado:</string>
+
+</resources>
